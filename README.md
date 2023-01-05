@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+trivago
+click to visit website https://adarsh1114.github.io/trivago-link/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
